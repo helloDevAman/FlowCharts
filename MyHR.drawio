@@ -13,8 +13,20 @@
         <mxCell id="h4RhrJ1EPq1ml3SVH13r-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Start&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="160" width="410" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="h4RhrJ1EPq1ml3SVH13r-6" value="Enter Details" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="370" width="290" height="100" as="geometry" />
+        <mxCell id="h4RhrJ1EPq1ml3SVH13r-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4RhrJ1EPq1ml3SVH13r-6" target="h4RhrJ1EPq1ml3SVH13r-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4RhrJ1EPq1ml3SVH13r-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Enter Details&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.05172413793103448;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="617.5" y="390" width="395" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h4RhrJ1EPq1ml3SVH13r-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4RhrJ1EPq1ml3SVH13r-9" target="h4RhrJ1EPq1ml3SVH13r-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4RhrJ1EPq1ml3SVH13r-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;text-align: start;&quot;&gt;Invalid / Valid&lt;/span&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="600" width="310" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="h4RhrJ1EPq1ml3SVH13r-11" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Success&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070" y="630" width="299" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
